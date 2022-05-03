@@ -7,5 +7,6 @@
 5. Return a Single Value from an Array with reduce() - Use the reduce method to return a single value from an array of values.
 6. Chaining Array Methods - Because the map method returns an array, you can call another array method directly after it. The same is true for the filter method. This is commonly called chaining methods, because each call is like a link in a chain.
 7. Combining filter() and map() - You can combine filter() and map() to clean an array of unwanted values before transforming the leftover items.
-8. Combining filter() and reduce() - 
+8. Combining filter() and reduce() - Combining filter() with reduce(), you can remove values from an array, using the results to compute some value.
+9. Nested Data and Additional Exploration -
  
