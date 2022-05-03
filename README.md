@@ -4,4 +4,5 @@
 2. `for` vs forEach() - It's important to able to look through an array to see what it holds. This video covers two ways of doing this: the for loop, and the forEach method. We'll compare and contrast the two techniques.
 3. Remove Array Items with filter() - The filter method can be used to remove elements from an array.
 4. Transform Array Items with map() - Use the map method to transform elements in an array.
+5. Return a Single Value from an Array with reduce() - 
  
